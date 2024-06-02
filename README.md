@@ -6,6 +6,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -14,3 +15,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
+# Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
