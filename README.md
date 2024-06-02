@@ -7,6 +7,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 # Two Pointers
 |  |
@@ -20,4 +21,5 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
