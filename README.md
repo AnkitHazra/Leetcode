@@ -36,3 +36,11 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
+# Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AnkitHazra/Leetcode/tree/master/0319-bulb-switcher) |
+# Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AnkitHazra/Leetcode/tree/master/0319-bulb-switcher) |
