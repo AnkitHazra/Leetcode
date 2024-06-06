@@ -13,6 +13,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 # Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AnkitHazra/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 # Binary Search
 |  |
 | ------- |
