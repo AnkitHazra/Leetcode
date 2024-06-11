@@ -15,6 +15,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnkitHazra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 # Two Pointers
 |  |
@@ -31,6 +32,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
 # Binary Search
 |  |
 | ------- |
@@ -53,3 +55,8 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
+# Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
