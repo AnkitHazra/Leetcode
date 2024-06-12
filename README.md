@@ -8,6 +8,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0015-3sum](https://github.com/AnkitHazra/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AnkitHazra/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
@@ -22,6 +23,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0015-3sum](https://github.com/AnkitHazra/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
@@ -29,6 +31,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0015-3sum](https://github.com/AnkitHazra/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AnkitHazra/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
