@@ -17,6 +17,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AnkitHazra/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnkitHazra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Two Pointers
@@ -37,6 +38,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AnkitHazra/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 # Binary Search
 |  |
 | ------- |
