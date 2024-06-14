@@ -12,6 +12,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -35,6 +36,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0056-merge-intervals](https://github.com/AnkitHazra/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
@@ -68,3 +70,15 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
