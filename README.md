@@ -15,6 +15,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnkitHazra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
@@ -29,6 +30,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0018-4sum](https://github.com/AnkitHazra/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 # Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Prefix Sum
@@ -85,3 +88,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
