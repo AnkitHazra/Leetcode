@@ -95,3 +95,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+# String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AnkitHazra/Leetcode/tree/master/0058-length-of-last-word) |
