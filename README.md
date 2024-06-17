@@ -31,6 +31,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Prefix Sum
 |  |
@@ -61,6 +63,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AnkitHazra/Leetcode/tree/master/0319-bulb-switcher) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Brainteaser
 |  |
 | ------- |
