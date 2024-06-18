@@ -99,3 +99,11 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnkitHazra/Leetcode/tree/master/0058-length-of-last-word) |
+# Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnkitHazra/Leetcode/tree/master/0155-min-stack) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnkitHazra/Leetcode/tree/master/0155-min-stack) |
