@@ -25,6 +25,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AnkitHazra/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitHazra/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnkitHazra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Two Pointers
@@ -62,6 +63,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/AnkitHazra/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitHazra/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Prefix Sum
 |  |
