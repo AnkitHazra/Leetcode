@@ -18,6 +18,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0217-contains-duplicate](https://github.com/AnkitHazra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/AnkitHazra/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0907-koko-eating-bananas](https://github.com/AnkitHazra/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -47,6 +48,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0088-merge-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitHazra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnkitHazra/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/AnkitHazra/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
