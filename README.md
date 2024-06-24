@@ -29,6 +29,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AnkitHazra/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitHazra/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AnkitHazra/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AnkitHazra/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnkitHazra/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Two Pointers
@@ -57,6 +58,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AnkitHazra/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AnkitHazra/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitHazra/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitHazra/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AnkitHazra/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AnkitHazra/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 # Prefix Sum
 |  |
