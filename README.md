@@ -22,6 +22,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0907-koko-eating-bananas](https://github.com/AnkitHazra/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnkitHazra/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/AnkitHazra/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnkitHazra/Leetcode/tree/master/1217-relative-sort-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitHazra/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -64,6 +65,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/AnkitHazra/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnkitHazra/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitHazra/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitHazra/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitHazra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
