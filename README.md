@@ -18,6 +18,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0217-contains-duplicate](https://github.com/AnkitHazra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/AnkitHazra/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AnkitHazra/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -65,6 +66,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkitHazra/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitHazra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitHazra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/AnkitHazra/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -78,6 +80,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnkitHazra/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 # Math
 |  |
 | ------- |
@@ -126,3 +129,11 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AnkitHazra/Leetcode/tree/master/0155-min-stack) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+# Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
