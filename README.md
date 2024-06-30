@@ -155,13 +155,27 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
