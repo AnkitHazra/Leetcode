@@ -156,6 +156,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1293-three-consecutive-odds](https://github.com/AnkitHazra/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
