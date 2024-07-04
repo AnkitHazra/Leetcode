@@ -12,7 +12,7 @@ public:
         map<ListNode*,int>mpp;
         ListNode* temp=head;
         while(temp!=NULL){
-            if(mpp[temp]!=0){
+            if(mpp.count(temp)!=0){
                 return temp;
             }
             mpp[temp]=1;
