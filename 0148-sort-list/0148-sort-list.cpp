@@ -10,21 +10,42 @@
  */
 class Solution {
 public:
+    ListNode* findmiddle(ListNode* head){
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
+    ListNode* mergeList(ListNode* l1,ListNode* l2){
+        ListNode* dummyNode=new ListNode(-1);
+        ListNode* temp=dummyNode;
+        while(l1!=NULL && l2!=NULL){
+            if(l1->val<l2->val){
+                temp->next=l1;
+                temp=l1;
+                l1=l1->next;
+            }
+            else{
+                temp->next=l2;
+                temp=l2;
+                l2=l2->next;
+            }
+        }
+        if(l1) temp->next=l1;
+        else temp->next=l2;
+        return dummyNode->next;
+    }
     ListNode* sortList(ListNode* head) {
-        vector<int>arr;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }
-        sort(arr.begin(),arr.end());
-        int i=0;
-        temp=head;
-        while(temp!=NULL){
-            temp->val=arr[i];
-            i++;
-            temp=temp->next;
-        }
-        return head;
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* middle=findmiddle(head);
+        ListNode* right=middle->next;
+        ListNode* left=head;
+        middle->next=NULL;
+        right=sortList(right);
+        left=sortList(left);
+        return mergeList(left,right);
     }
 };
