@@ -231,6 +231,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0002-add-two-numbers) |
+| [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,4 +240,8 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AnkitHazra/Leetcode/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
