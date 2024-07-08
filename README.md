@@ -228,6 +228,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0002-add-two-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitHazra/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -237,6 +238,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
@@ -250,4 +252,8 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
