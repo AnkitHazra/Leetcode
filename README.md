@@ -238,6 +238,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/AnkitHazra/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
@@ -255,5 +256,6 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnkitHazra/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
