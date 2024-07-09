@@ -155,6 +155,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1293-three-consecutive-odds](https://github.com/AnkitHazra/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -257,6 +258,11 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitHazra/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AnkitHazra/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
