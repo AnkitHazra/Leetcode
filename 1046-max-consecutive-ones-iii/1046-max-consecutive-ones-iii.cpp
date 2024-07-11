@@ -1,6 +1,7 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
+        if(nums.size()<0) return 0;
         int l=0;
         int r=0;
         int maxlen=0;
