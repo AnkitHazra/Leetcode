@@ -159,6 +159,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AnkitHazra/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -195,6 +196,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0142-linked-list-cycle-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnkitHazra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,5 +291,6 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitHazra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
