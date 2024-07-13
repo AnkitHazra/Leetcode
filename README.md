@@ -163,6 +163,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AnkitHazra/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -201,6 +202,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +257,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0050-powx-n](https://github.com/AnkitHazra/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
@@ -300,4 +303,5 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
