@@ -248,6 +248,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnkitHazra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/AnkitHazra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitHazra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -296,6 +297,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitHazra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AnkitHazra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
