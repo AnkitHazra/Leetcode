@@ -248,6 +248,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnkitHazra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -304,4 +305,12 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnkitHazra/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnkitHazra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
