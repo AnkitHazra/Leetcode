@@ -155,6 +155,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,6 +181,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -208,6 +210,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitHazra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AnkitHazra/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AnkitHazra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -250,6 +253,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitHazra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AnkitHazra/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnkitHazra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitHazra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -325,5 +329,6 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitHazra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
