@@ -13,18 +13,14 @@ class Solution {
 public:
 int findh(TreeNode* root){
     if(root==NULL) return 0;
-    int left=1+findh(root->left);
-    int right=1+findh(root->right);
-    return max(left,right);
+    int left=findh(root->left);
+    int right=findh(root->right);
+    if(left==-1||right==-1) return -1;
+    if(abs(left-right)>1) return -1;
+    return 1+max(left,right);
 }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL) return true;
-        int lh=findh(root->left);
-        int rh=findh(root->right);
-        if(abs(lh-rh)>1) return false;
-        bool left=isBalanced(root->left); 
-        bool right=isBalanced(root->right); 
-        if(!left || !right) return false;
+        if(findh(root)==-1) return false;
         return true;
     }
 
