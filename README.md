@@ -157,6 +157,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -199,6 +200,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitHazra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnkitHazra/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AnkitHazra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -282,6 +284,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/AnkitHazra/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -351,6 +354,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -382,6 +386,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0102-binary-tree-level-order-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
