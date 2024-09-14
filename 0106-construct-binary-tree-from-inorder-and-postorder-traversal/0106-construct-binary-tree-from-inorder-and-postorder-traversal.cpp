@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    TreeNode* build(vector<int> inorder,int is,int ie,vector<int> postorder,int ps,int pe, map<int,int>&hm){
+    TreeNode* build(vector<int> inorder,int is,int ie,vector<int> postorder,int ps,int pe,unordered_map<int,int>&hm){
         if(is>ie || ps>pe) return NULL;
         TreeNode* root=new TreeNode(postorder[pe]);
         int inRoot=hm[postorder[pe]];
@@ -22,7 +22,7 @@ class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         if(inorder.size()!=postorder.size()) return NULL;
-       map<int,int>hm;
+       unordered_map<int,int>hm;
         for(int i=0;i<inorder.size();++i){
             hm[inorder[i]]=i;
         }
