@@ -370,6 +370,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AnkitHazra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AnkitHazra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -408,6 +409,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AnkitHazra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AnkitHazra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -426,5 +428,6 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AnkitHazra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
