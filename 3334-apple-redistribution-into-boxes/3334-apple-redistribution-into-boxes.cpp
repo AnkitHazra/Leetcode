@@ -10,12 +10,13 @@ public:
         sort(capacity.rbegin(),capacity.rend());
         for(int i=0;i<capacity.size();i++){
             
-            if(cpct>=total_apple){
-            break;    
-            }
-            else 
+            if(cpct<total_apple){
                 cpct+=capacity[i];
                 cnt++;
+                
+            }
+            else 
+                break;
         }
         return cnt;
     }
