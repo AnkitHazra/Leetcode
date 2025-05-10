@@ -173,6 +173,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitHazra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitHazra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AnkitHazra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
@@ -199,6 +200,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AnkitHazra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
