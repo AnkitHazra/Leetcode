@@ -167,6 +167,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/AnkitHazra/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitHazra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -186,6 +187,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkitHazra/Leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/AnkitHazra/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
@@ -417,6 +419,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0733-flood-fill](https://github.com/AnkitHazra/Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,6 +464,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0733-flood-fill](https://github.com/AnkitHazra/Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -481,6 +485,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkitHazra/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AnkitHazra/Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
