@@ -176,6 +176,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitHazra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AnkitHazra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +281,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0206-reverse-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnkitHazra/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +338,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
