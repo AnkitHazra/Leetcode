@@ -1,20 +1,22 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int n=digits.size();
-        int cnt;
-        set<int>s;
-        for(int i=0;i<n;i++){
-            if(digits[i]==0) continue;
-            for(int j=0;j<n;j++){
-                if(i==j) continue;
-                for(int k=0;k<n;k++){
-                    if(k==j|| k==i) continue;
-                    int num=digits[i]*100+digits[j]*10+digits[k];
-                    if(num%2==0) s.insert(num);
-                }
-            }
+        vector<int> freq(10, 0);
+        for (int i: digits) freq[i]++;
+        int cnt = 0;
+        for (int i = 100; i < 1000; i=i+2) {
+            int a = i / 100;
+            int b = (i / 10) % 10;
+            int c = i % 10;
+            vector<int> tempfreq = freq;
+            if (--tempfreq[a] < 0)
+                continue;
+            if (--tempfreq[b] < 0)
+                continue;
+            if (--tempfreq[c] < 0)
+                continue;
+            cnt++;
         }
-        return s.size();
+        return cnt;
     }
 };
