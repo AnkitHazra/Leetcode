@@ -222,6 +222,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnkitHazra/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0782-jewels-and-stones](https://github.com/AnkitHazra/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -345,6 +346,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0020-valid-parentheses](https://github.com/AnkitHazra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0782-jewels-and-stones](https://github.com/AnkitHazra/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
