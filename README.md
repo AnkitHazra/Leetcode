@@ -198,6 +198,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +231,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -307,6 +309,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -351,6 +354,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/AnkitHazra/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -506,4 +510,8 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnkitHazra/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AnkitHazra/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
