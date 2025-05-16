@@ -162,6 +162,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0130-surrounded-regions](https://github.com/AnkitHazra/Leetcode/tree/master/0130-surrounded-regions) |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/AnkitHazra/Leetcode/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/AnkitHazra/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -182,6 +183,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnkitHazra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AnkitHazra/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitHazra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -189,6 +191,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkitHazra/Leetcode/tree/master/0130-surrounded-regions) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/AnkitHazra/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/AnkitHazra/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/AnkitHazra/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -252,6 +255,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | ------- |
 | [0148-sort-list](https://github.com/AnkitHazra/Leetcode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -514,4 +518,8 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
