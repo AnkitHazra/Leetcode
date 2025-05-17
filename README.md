@@ -156,6 +156,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitHazra/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -242,6 +243,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitHazra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AnkitHazra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AnkitHazra/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnkitHazra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AnkitHazra/Leetcode/tree/master/0148-sort-list) |
@@ -253,6 +255,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnkitHazra/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AnkitHazra/Leetcode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitHazra/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
