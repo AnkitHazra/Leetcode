@@ -178,6 +178,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitHazra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AnkitHazra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AnkitHazra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3321-type-of-triangle](https://github.com/AnkitHazra/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -263,6 +264,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnkitHazra/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/AnkitHazra/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
@@ -318,6 +320,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3321-type-of-triangle](https://github.com/AnkitHazra/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
