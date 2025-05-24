@@ -326,6 +326,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0013-roman-to-integer](https://github.com/AnkitHazra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AnkitHazra/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AnkitHazra/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/AnkitHazra/Leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/AnkitHazra/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitHazra/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -345,11 +346,13 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnkitHazra/Leetcode/tree/master/0067-add-binary) |
 | [2645-pass-the-pillow](https://github.com/AnkitHazra/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitHazra/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AnkitHazra/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AnkitHazra/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/AnkitHazra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AnkitHazra/Leetcode/tree/master/0231-power-of-two) |
@@ -374,6 +377,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitHazra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnkitHazra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnkitHazra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AnkitHazra/Leetcode/tree/master/0067-add-binary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitHazra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/AnkitHazra/Leetcode/tree/master/0782-jewels-and-stones) |
