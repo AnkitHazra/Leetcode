@@ -181,6 +181,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitHazra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AnkitHazra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AnkitHazra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/AnkitHazra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/AnkitHazra/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/AnkitHazra/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AnkitHazra/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -377,6 +378,7 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitHazra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/AnkitHazra/Leetcode/tree/master/0782-jewels-and-stones) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AnkitHazra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/AnkitHazra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitHazra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
