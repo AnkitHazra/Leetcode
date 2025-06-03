@@ -593,5 +593,6 @@ VISIT MY PROFILE: https://leetcode.com/u/Ankit_Hazra/
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/AnkitHazra/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AnkitHazra/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
