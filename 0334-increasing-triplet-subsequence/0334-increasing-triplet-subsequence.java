@@ -12,7 +12,7 @@ class Solution {
            }else if ( second >= ele){
                second = ele ;
            }else {
-               third = ele ;
+            //    third = ele ;
                return true ;
            }
        }
